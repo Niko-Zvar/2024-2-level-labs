@@ -1,12 +1,6 @@
 """
 Laboratory Work #4 starter.
 """
-from lab_4_retrieval_w_clustering.main import (
-    ClusteringSearchEngine,
-    DocumentVectorDB,
-    get_paragraphs,
-    VectorDBSearchEngine,
-)
 
 # pylint:disable=duplicate-code, too-many-locals, too-many-statements, unused-variable
 
